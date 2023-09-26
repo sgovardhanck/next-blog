@@ -1,0 +1,11 @@
+a {
+  text-decoration: none;
+  color: var(--text-color);
+}
+a:hover {
+  text-decoration: underline;
+}
+body {
+  background-color: var(--background-color);
+  color: var(--color);
+}
